@@ -1,0 +1,22 @@
+#contactForm {
+
+    .bordesRedondeados {
+        background-color: #FFDEDD;
+        border: 4px;
+        border-radius: 15px;
+    }
+
+    #formularioDeRegistro {
+        border-color: #9B8884;
+        border-style: double;
+
+        width: 50%;
+        height: 600px;
+
+        input {
+            color: pink;
+        }
+
+    }
+
+}

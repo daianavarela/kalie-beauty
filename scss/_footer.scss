@@ -1,0 +1,22 @@
+
+.cajaFooter {
+    width: 100%;
+    height: 380px;
+
+    .texto {
+        font-family: 'Source Sans Pro';
+        font-size: 14pt;
+        font-style: normal;
+    
+        &Italica {
+            font-style: italic;
+        }
+    
+        &Negrita {
+            font-style: bold;
+        }
+    
+    }
+
+}
+

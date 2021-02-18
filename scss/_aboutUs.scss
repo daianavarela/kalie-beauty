@@ -1,0 +1,39 @@
+.aboutUs {
+
+    h1 {
+        color: #9B8884;
+        margin-left: 40px;
+    }
+
+    .texto {
+        font-family: 'Source Sans Pro';
+        font-size: 14pt;
+        font-style: normal;
+
+        &Italica {
+            font-style: italic;
+        }
+
+        &Negrita {
+            font-style: bold;
+        }
+
+    }
+
+    .cajaSobreNosotros{
+        display: inline;
+        width: 80%;
+        height: 400px;
+        position: relative;
+        left: 5%;
+    
+        background-color: #FFF9F5;
+        margin-top: 10px;
+        padding: 15px;
+        border-color: #FDC5C4;
+        border-style: dotted;
+    
+    }
+
+}
+
